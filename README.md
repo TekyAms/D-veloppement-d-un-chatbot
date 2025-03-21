@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/75c5a85a-c5a5-4392-89fb-6544d1ce44bd)Pour démarrer il faut d'abord taper cette commande dans votre terminal vscode: pip install gunicorn flask tensorflow nltk langdetect
+Pour démarrer il faut d'abord taper cette commande dans votre terminal vscode: pip install gunicorn flask tensorflow nltk langdetect
 
 Ensuite, cette commande pour démarrer le serveur: python app.py
 
