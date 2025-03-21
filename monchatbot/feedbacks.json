@@ -1,0 +1,158 @@
+[
+    {
+        "message": "Y a-t-il une saison des pluies au S\u00e9n\u00e9gal ?",
+        "bot_response": "Le S\u00e9n\u00e9gal a un climat tropical avec une saison des pluies de juin \u00e0 octobre.",
+        "correct": true,
+        "expected_response": null
+    },
+    {
+        "message": "Quel est le meilleur moment pour visiter le S\u00e9n\u00e9gal ?",
+        "bot_response": "Le S\u00e9n\u00e9gal a un climat tropical avec une saison des pluies de juin \u00e0 octobre.",
+        "correct": false,
+        "expected_response": null
+    },
+    {
+        "message": "Quand visiter Dakar ?",
+        "bot_response": "The best time to visit is between November and May, during the dry season.",
+        "correct": true,
+        "expected_response": null
+    },
+    {
+        "message": "O\u00f9 peut-on faire du surf au S\u00e9n\u00e9gal ?",
+        "bot_response": "Les plus belles plages du S\u00e9n\u00e9gal incluent la plage de Popenguine, la plage de Cap Skirring, la plage de Saly, la plage de Ngor et la plage de la Somone.",
+        "correct": false,
+        "expected_response": null
+    },
+    {
+        "message": "Quels sont les endroits pour se d\u00e9tendre au bord de la mer ?",
+        "bot_response": "La plage de Yoff \u00e0 Dakar est tr\u00e8s populaire pour le surf.",
+        "correct": false,
+        "expected_response": "Vous pouvez pratiquer la p\u00eache \u00e0 Kayar, Joal-Fadiouth, Mbour, Saint-Louis et dans le delta du Saloum, o\u00f9 la p\u00eache artisanale et sportive sont tr\u00e8s populaires."
+    },
+    {
+        "message": "Pouvez-vous recommander des plages tranquilles ?",
+        "bot_response": "Pour des plages paisibles, explorez la plage de Toubab Dialaw, la plage de Palmarin, la plage de Kafountine en Casamance, ou la plage de Nianing.",
+        "correct": true,
+        "expected_response": "Vous pouvez pratiquer la p\u00eache \u00e0 Kayar, Joal-Fadiouth, Mbour, Saint-Louis et dans le delta du Saloum, o\u00f9 la p\u00eache artisanale et sportive sont tr\u00e8s populaires."
+    },
+    {
+        "message": "Comment se d\u00e9placer au S\u00e9n\u00e9gal ?",
+        "bot_response": "Le train est une option limit\u00e9e, mais le TER (Train Express R\u00e9gional) relie Dakar \u00e0 Diamniadio, tandis que d\u2019autres lignes ferroviaires restent peu d\u00e9velopp\u00e9es pour le transport de passagers.",
+        "correct": false,
+        "expected_response": "Le train est une option limit\u00e9e, mais le TER (Train Express R\u00e9gional) relie Dakar \u00e0 Diamniadio, tandis que d\u2019autres lignes ferroviaires restent peu d\u00e9velopp\u00e9es pour le transport de passagers."
+    },
+    {
+        "message": "Y a-t-il des transports en commun fiables au S\u00e9n\u00e9gal ?",
+        "bot_response": "Les moyens de transport les plus courants sont les taxis, les bus, les cars rapides, les Ndiaga Ndiaye, ainsi que les motos-taxis en zones rurales.",
+        "correct": true,
+        "expected_response": "Les moyens de transport les plus courants sont les taxis, les bus, les cars rapides, les Ndiaga Ndiaye, ainsi que les motos-taxis en zones rurales."
+    },
+    {
+        "message": "Le train est-il une option au S\u00e9n\u00e9gal ?",
+        "bot_response": "Vous pouvez louer une voiture aupr\u00e8s d'agences comme Hertz, Avis, ou des agences locales \u00e0 Dakar, l\u2019a\u00e9roport et dans les grandes villes, avec ou sans chauffeur.",
+        "correct": false,
+        "expected_response": "Le train est une option limit\u00e9e, mais le TER (Train Express R\u00e9gional) relie Dakar \u00e0 Diamniadio, tandis que d\u2019autres lignes ferroviaires restent peu d\u00e9velopp\u00e9es pour le transport de passagers."
+    },
+    {
+        "message": "Quelle langue parle-t-on au S\u00e9n\u00e9gal ?",
+        "bot_response": "Oui, le wolof est la langue principale parl\u00e9e par la majorit\u00e9 de la population, bien qu'il existe une grande diversit\u00e9 linguistique dans le pays.",
+        "correct": true,
+        "expected_response": "Oui, le fran\u00e7ais est la langue officielle du S\u00e9n\u00e9gal et est utilis\u00e9 dans l'administration, les affaires et l'\u00e9ducation."
+    },
+    {
+        "message": "Les habitants parlent-ils fran\u00e7ais au S\u00e9n\u00e9gal ?",
+        "bot_response": "Oui, le wolof est la langue principale parl\u00e9e par la majorit\u00e9 de la population, bien qu'il existe une grande diversit\u00e9 linguistique dans le pays.",
+        "correct": false,
+        "expected_response": "Au S\u00e9n\u00e9gal, on parle principalement le wolof, le s\u00e9r\u00e8re, le pulaar, le diola, le mandingue et d'autres dialectes r\u00e9gionaux, en plus du fran\u00e7ais."
+    },
+    {
+        "message": "Le francais est-il parle au senegal ?",
+        "bot_response": "La langue officielle du S\u00e9n\u00e9gal est le fran\u00e7ais, mais le wolof est largement parl\u00e9 dans tout le pays, accompagn\u00e9 d'autres langues locales.",
+        "correct": true,
+        "expected_response": "Les dialectes locaux les plus courants sont le wolof, le s\u00e9r\u00e8re, le pulaar, le diola, le mandingue et le sonink\u00e9, chacun correspondant \u00e0 un groupe ethnique sp\u00e9cifique."
+    },
+    {
+        "message": "What language is spoken in Senegal?",
+        "bot_response": "The official language of Senegal is French, but Wolof is widely spoken throughout the country, along with other local languages.",
+        "correct": true,
+        "expected_response": "In Senegal, people mainly speak Wolof, Serer, Pulaar, Diola, Mandinka, and other regional dialects, in addition to French."
+    },
+    {
+        "message": "Le wolof est il parle au senegal ?",
+        "bot_response": "Au S\u00e9n\u00e9gal, on parle principalement le wolof, le s\u00e9r\u00e8re, le pulaar, le diola, le mandingue et d'autres dialectes r\u00e9gionaux, en plus du fran\u00e7ais.",
+        "correct": true,
+        "expected_response": "Les dialectes locaux les plus courants sont le wolof, le s\u00e9r\u00e8re, le pulaar, le diola, le mandingue et le sonink\u00e9, chacun correspondant \u00e0 un groupe ethnique sp\u00e9cifique."
+    },
+    {
+        "message": "hello",
+        "bot_response": "Hey!! How are things going for you?",
+        "correct": false,
+        "expected_response": "Hello and welcome to the land of TERANGA."
+    },
+    {
+        "message": "bonjour",
+        "bot_response": "Oui ca va .Que puis-je faire pour vous aider ?",
+        "correct": false,
+        "expected_response": "Yes, I'm fine, and you?"
+    },
+    {
+        "message": "Bonjour",
+        "bot_response": "Oui ca va .Que puis-je faire pour vous aider ?",
+        "correct": true,
+        "expected_response": "Oui ca va.En quoi puis-je vous \u00eatre utile ?"
+    },
+    {
+        "message": "Bonsoir",
+        "bot_response": "Oui je vais bien et chez vous?",
+        "correct": false,
+        "expected_response": "Oui ca va.En quoi puis-je vous \u00eatre utile ?"
+    },
+    {
+        "message": "Bonjour",
+        "bot_response": "Hey!!Tout se passe bien pour vous ?",
+        "correct": true,
+        "expected_response": "Oui ca va.En quoi puis-je vous \u00eatre utile ?"
+    },
+    {
+        "message": "bokzkmer\u00f9",
+        "bot_response": "Yes, I'm fine. How can I assist you?",
+        "correct": true,
+        "expected_response": "Hey!! How are things going for you?"
+    },
+    {
+        "message": "ojoa",
+        "bot_response": "Hey!! How are things going for you?",
+        "correct": false,
+        "expected_response": "How can I help you?"
+    },
+    {
+        "message": "Bonjour",
+        "bot_response": "Oui je vais bien et chez vous?",
+        "correct": true,
+        "expected_response": "En quoi puis-je vous \u00eatre utile ?"
+    },
+    {
+        "message": "bonsoir",
+        "bot_response": "Bonsoir et Bienvenue dans le pays de la TERANGA",
+        "correct": true,
+        "expected_response": "Bonsoir et Bienvenue dans le pays de la TERANGA"
+    },
+    {
+        "message": "je vais bien aussi",
+        "bot_response": "Yes, I'm fine, and you?",
+        "correct": false,
+        "expected_response": "Yes, I'm fine. How can I assist you?"
+    },
+    {
+        "message": "Bonjour",
+        "bot_response": "Bonjour et Bienvenue dans le pays de la TERANGA",
+        "correct": true,
+        "expected_response": "Bonjour et Bienvenue dans le pays de la TERANGA"
+    },
+    {
+        "message": "The best beach in Senegal",
+        "bot_response": "The most beautiful beaches in Senegal include Popenguine Beach, Cap Skirring Beach, Saly Beach, Ngor Beach, and Somone Beach.",
+        "correct": true,
+        "expected_response": "Yoff Beach in Dakar is very popular for surfing."
+    }
+]

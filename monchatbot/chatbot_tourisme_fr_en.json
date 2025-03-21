@@ -1,0 +1,515 @@
+{
+  "intentions": [
+    {
+      "tag": "salutations",
+      "questions_fr": [
+        "Bonjour",
+        "Bonsoir",
+        "Comment allez-vous ?",
+        "Ca va .",
+        "Salut",
+        "Quoi de neuf",
+        "Ca va ?"
+      ],
+      "questions_en": [
+        "Hello",
+        "Good Morning",
+        "Good afternoon",
+        "How are you?",
+        "How's it going?",
+        "Hi",
+        "What's up?",
+        "How are you doing?"
+      ],
+      "réponses_fr": [
+        "Bonjour et Bienvenue dans le pays de la TERANGA",
+        "Bonsoir et Bienvenue dans le pays de la TERANGA",
+        "Oui je vais bien et chez vous?",
+        "En quoi puis-je vous être utile ?",
+        "Hey!!Tout se passe bien pour vous ?",
+        "Oui ca va .Que puis-je faire pour vous aider ?",
+        "Oui ca va.En quoi puis-je vous être utile ?"
+      ],
+      "réponses_en": [
+        "Hello and welcome to the land of TERANGA.",
+        "Morning and welcome to the land of TERANGA.",
+        "Good afternoon and welcome to the land of TERANGA.",
+        "Yes, I'm fine, and you?",
+        "How can I help you?",
+        "Hey!! How are things going for you?",
+        "Yes, I'm fine. What can I do to help you?",
+        "Yes, I'm fine. How can I assist you?"
+      ]
+    },
+    {
+      "tag": "recommandation_destination_senegal",
+      "questions_fr": [
+        "Quelles sont les meilleures destinations au Sénégal ?",
+        "Où aller au Sénégal pour des vacances ?",
+        "Pouvez-vous me conseiller une destination au Sénégal ?",
+        "Quels sont les lieux incontournables au Sénégal ?",
+        "Quels sont les endroits populaires pour les touristes au Sénégal ?"
+      ],
+      "questions_en": [
+        "What are the best destinations in Senegal?",
+        "Where to go in Senegal for a vacation?",
+        "Can you recommend a destination in Senegal?",
+        "What are the must-see places in Senegal?",
+        "What are the popular tourist spots in Senegal?"
+      ],
+      "réponses_fr": [
+        "les meilleures destinations au Sénégal sont le Lac Rose, l'île de Gorée,le monument de la renaissance,site Plazza,Pullman,Radisson et Saly.",
+        "Visitez le parc national du delta du Saloum pour une expérience naturelle unique.",
+        "Dakar, Saint-Louis et Cap Skirring sont des lieux à ne pas manquer.",
+        "Je recommande une visite à la réserve de Bandia ou au parc national de Niokolo-Koba.",
+        "Pour des vacances balnéaires, Saly et Cap Skirring sont parfaits."
+      ],
+      "réponses_en": [
+        "The best destinations in Senegal are Lac Rose, Gorée Island, the Renaissance Monument, Plazza site, Pullman, Radisson, and Saly.",
+        "Visit the Saloum Delta National Park for a unique natural experience.",
+        "Dakar, Saint-Louis, and Cap Skirring are must-visit places.",
+        "I recommend a visit to the Bandia Reserve or Niokolo-Koba National Park.",
+        "For beach holidays, Saly and Cap Skirring are perfect."
+      ]
+    },
+    {
+      "tag": "activites_senegal",
+      "questions_fr": [
+        "Quelles activités peut-on faire au Sénégal ?",
+        "Que faire pendant mon séjour au Sénégal ?",
+        "Pouvez-vous me conseiller des excursions au Sénégal ?",
+        "Quels musées visiter au Sénégal ?",
+        "Quels sont les festivals culturels au Sénégal ?"
+      ],
+      "questions_en": [
+        "What activities can you do in Senegal?",
+        "What to do during my stay in Senegal?",
+        "Can you recommend excursions in Senegal?",
+        "Which museums to visit in Senegal?",
+        "What are the cultural festivals in Senegal?"
+      ],
+      "réponses_fr": [
+        "Partez en safari au parc national de Niokolo-Koba ou à la réserve de Bandia.Découvrez les plages de Saly, Cap Skirring et la Petite Côte.Essayez une excursion sur l'île de Gorée ou au Lac Rose.Explorez le delta du Saloum en pirogue et observez les oiseaux.Faites des Randonnées jusqu'aux cascades de Dindefelo à Kédougou.Visitez les marchés artisanaux de Dakar et Saint-Louis.Pratiquez le surf sur les plages de Yoff et Ngor.",
+        "Explorez l'île de Gorée et la Maison des Esclaves.Découvrez le centre-ville de Dakar et le Monument de la Renaissance africaine.Admirez le Lac Rose et rencontrez les ramasseurs de sel.Partez en safari à la réserve de Bandia ou au parc de Niokolo-Koba.Détendez-vous sur les plages de Saly et Cap Skirring. Naviguez en pirogue dans le delta du Saloum ou en Casamance.Visitez la ville historique de Saint-Louis et son architecture coloniale.Goûtez aux spécialités locales comme le thiéboudienne et le yassa poulet",
+        "Vous pouvez faire une excursion sur l'île de Gorée, visiter le Lac Rose, partir en safari à la réserve de Bandia, explorer le parc du Djoudj pour observer les oiseaux, ou naviguer en pirogue dans le delta du Saloum.",
+        "Vous pouvez visiter le Musée des Civilisations Noires, la Maison des Esclaves sur l'île de Gorée, le Musée Théodore Monod, le Musée de la civilisation noire, le Village des Arts à Dakar et le Musée de Saint-Louis.",
+        "Les festivals culturels au Sénégal incluent Dak'Art, le Festival de Jazz de Saint-Louis, le Festival de Gorée, le Festival des Arts et Cultures Sérères, le Festival de Kaydara, le Festival de la Danse Africaine de Kaolack et le Festival du Sahel à Lompoul."
+      ],
+      "réponses_en": [
+        "Go on a safari in Niokolo-Koba National Park or Bandia Reserve. Discover the beaches of Saly, Cap Skirring, and the Petite Côte. Try an excursion to Gorée Island or Lac Rose. Explore the Saloum Delta by pirogue and observe the birds. Hike to the Dindefelo waterfalls in Kédougou. Visit the artisanal markets of Dakar and Saint-Louis. Surf on the beaches of Yoff and Ngor.",
+        "Explore Gorée Island and the House of Slaves. Discover downtown Dakar and the African Renaissance Monument. Admire Lac Rose and meet the salt collectors. Go on a safari to Bandia Reserve or Niokolo-Koba Park. Relax on the beaches of Saly and Cap Skirring. Navigate by pirogue in the Saloum Delta or Casamance. Visit the historic city of Saint-Louis and its colonial architecture. Taste local specialties like thiéboudienne and yassa chicken.",
+        "You can take an excursion to Gorée Island, visit Lac Rose, go on a safari to Bandia Reserve, explore Djoudj National Bird Sanctuary, or navigate by pirogue in the Saloum Delta.",
+        "You can visit the Museum of Black Civilizations, the House of Slaves on Gorée Island, the Théodore Monod Museum, the Village des Arts in Dakar, and the Museum of Saint-Louis.",
+        "Cultural festivals in Senegal include Dak'Art, the Saint-Louis Jazz Festival, the Gorée Festival, the Serere Arts and Culture Festival, the Kaydara Festival, the African Dance Festival of Kaolack, and the Lompoul Desert Festival."
+      ]
+    },
+    {
+      "tag": "gastronomie_senegal",
+      "questions_fr": [
+        "Quels plats typiques essayer au Sénégal ?",
+        "Pouvez-vous me recommander des restaurants au Sénégal ?",
+        "Où manger le meilleur thieboudienne ?",
+        "Quelles sont les spécialités culinaires du Sénégal ?",
+        "Quels marchés alimentaires visiter ?"
+      ],
+      "questions_en": [
+        "What typical dishes to try in Senegal?",
+        "Can you recommend restaurants in Senegal?",
+        "Where to eat the best thieboudienne?",
+        "What are the culinary specialties of Senegal?",
+        "Which food markets to visit?"
+      ],
+      "réponses_fr": [
+        "Au Sénégal, goûtez au thiéboudienne, au yassa poulet, au mafé, au soupe kandia, aux pastels et aux beignets de mil",
+        "Vous pouvez essayer Le Ngor et Chez Loutcha à Dakar, La Kora à Saint-Louis, La Paillote à Saly et Le Papayer en Casamance pour déguster des spécialités sénégalaises.",
+        "Le meilleur thiéboudienne se trouve dans les restaurants traditionnels comme Chez Loutcha à Dakar, au Relais de l’Espadon à Saint-Louis, ou directement chez l’habitant pour une expérience authentique",
+        "Les spécialités culinaires du Sénégal incluent le thiéboudienne, le yassa, le mafé, le domoda, le soupe kandia, les pastels et le lakh.",
+        "Visitez le marché Tilène pour découvrir les produits locaux et les épices sénégalaises à DAKAR"
+      ],
+      "réponses_en": [
+        "In Senegal, try thiéboudienne, yassa chicken, mafé, soupe kandia, pastels, and millet beignets.",
+        "You can try Le Ngor and Chez Loutcha in Dakar, La Kora in Saint-Louis, La Paillote in Saly, and Le Papayer in Casamance to taste Senegalese specialties.",
+        "The best thieboudienne can be found in traditional restaurants like Chez Loutcha in Dakar, Relais de l’Espadon in Saint-Louis, or directly at a local's home for an authentic experience.",
+        "Culinary specialties of Senegal include thiéboudienne, yassa, mafé, domoda, soupe kandia, pastels, and lakh.",
+        "Visit Tilène Market to discover local products and Senegalese spices in DAKAR."
+      ]
+    },
+        {
+          "tag": "climat_senegal",
+          "questions_fr": [
+            "Quel est le meilleur moment pour visiter le Sénégal ?",
+            "Comment est le climat au Sénégal ?",
+            "Y a-t-il une saison des pluies au Sénégal ?",
+            "Quelle est la température moyenne au Sénégal ?",
+            "Quand visiter Dakar ?",
+            "Quelle région visiter pendant la saison verte au Sénégal ?"
+          ],
+          "questions_en": [
+            "What is the best time to visit Senegal?",
+            "What is the climate like in Senegal?",
+            "Is there a rainy season in Senegal?",
+            "What is the average temperature in Senegal?",
+            "When to visit Dakar?",
+            "Which region to visit during the green season in Senegal?"
+          ],
+          "réponses_fr": [
+            "Le meilleur moment pour visiter est entre novembre et mai, pendant la saison sèche.",
+            "Le Sénégal a un climat tropical avec une saison des pluies de juin à octobre.",
+            "Oui le Sénégal dispose d'une saison des pluies de juin à octobre.",
+            "Les températures sont généralement agréables, autour de 25-30°C.",
+            "Pour visiter Dakar, préférez la saison sèche pour éviter les pluies.",
+            "La région de Casamance est particulièrement belle pendant la saison verte."
+          ],
+          "réponses_en": [
+            "The best time to visit is between November and May, during the dry season.",
+            "Senegal has a tropical climate with a rainy season from June to October.",
+            "Yes, Senegal has a rainy season from June to October.",
+            "Temperatures are generally pleasant, around 25-30°C.",
+            "To visit Dakar, prefer the dry season to avoid the rains.",
+            "The Casamance region is particularly beautiful during the green season."
+          ]
+        },
+        {
+          "tag": "histoire_senegal",
+          "questions_fr": [
+            "Quels sont les sites historiques à visiter au Sénégal ?",
+            "Quelle est l'histoire de l'île de Gorée ?",
+            "Où trouver des monuments historiques au Sénégal ?",
+            "Pouvez-vous me parler du passé colonial du Sénégal ?",
+            "Quels sont les musées à ne pas manquer au Sénégal ?"
+          ],
+          "questions_en": [
+            "What are the historical sites to visit in Senegal?",
+            "What is the history of Gorée Island?",
+            "Where to find historical monuments in Senegal?",
+            "Can you tell me about Senegal's colonial past?",
+            "Which museums are a must-see in Senegal?"
+          ],
+          "réponses_fr": [
+            "Vous pouvez visiter l'île de Gorée et la Maison des Esclaves et l'ancienne ville coloniale de Saint-Louis",
+            "L'île de Gorée, inscrite au patrimoine mondial de l'UNESCO, fut un important centre de commerce des esclaves du XVIe au XIXe siècle, et aujourd'hui, elle témoigne de cette histoire à travers la Maison des Esclaves et ses ruelles pittoresques.",
+            "Vous trouverez des monuments historiques à Dakar avec le Monument de la Renaissance Africaine, à Saint-Louis avec le Pont Faidherbe, à Gorée avec la Maison des Esclaves, et dans le Sine-Saloum avec les cercles mégalithiques classés par l'UNESCO.",
+            "Le Sénégal a été une colonie française du XVIIe siècle jusqu'à son indépendance en 1960, avec des villes comme Saint-Louis et Gorée servant de centres administratifs et commerciaux, marqués par une architecture coloniale encore visible aujourd'hui.",
+            "Le Musée des Civilisations Noires, la Maison des Esclaves sur l'île de Gorée sont des lieux à explorer."
+          ],
+          "réponses_en": [
+            "You can visit Gorée Island, the House of Slaves, and the old colonial city of Saint-Louis.",
+            "Gorée Island, a UNESCO World Heritage Site, was a major center of the slave trade from the 16th to the 19th century, and today it bears witness to this history through the House of Slaves and its picturesque streets.",
+            "You will find historical monuments in Dakar with the African Renaissance Monument, in Saint-Louis with the Faidherbe Bridge, in Gorée with the House of Slaves, and in Sine-Saloum with the UNESCO-listed megalithic circles.",
+            "Senegal was a French colony from the 17th century until its independence in 1960, with cities like Saint-Louis and Gorée serving as administrative and commercial centers, marked by colonial architecture still visible today.",
+            "The Museum of Black Civilizations and the House of Slaves on Gorée Island are must-visit places."
+          ]
+        },
+        {
+          "tag": "plages_senegal",
+          "questions_fr": [
+            "Quelles sont les meilleures plages au Sénégal ?",
+            "Où peut-on faire du surf au Sénégal ?",
+            "Quels sont les endroits pour se détendre au bord de la mer ?",
+            "Pouvez-vous recommander des plages tranquilles ?",
+            "Où peut-on pratiquer la pêche au Sénégal ?"
+          ],
+          "questions_en": [
+            "What are the best beaches in Senegal?",
+            "Where can you surf in Senegal?",
+            "What are the best places to relax by the sea?",
+            "Can you recommend quiet beaches?",
+            "Where can you go fishing in Senegal?"
+          ],
+          "réponses_fr": [
+            "Les plus belles plages du Sénégal incluent la plage de Popenguine, la plage de Cap Skirring, la plage de Saly, la plage de Ngor et la plage de la Somone.",
+            "La plage de Yoff à Dakar est très populaire pour le surf.",
+            "Pour vous détendre au bord de la mer, rendez-vous à la lagune de la Somone, aux plages de Cap Skirring, à Saly pour ses resorts, ou encore sur l’île de Niodior dans le Sine-Saloum.",
+            "Pour des plages paisibles, explorez la plage de Toubab Dialaw, la plage de Palmarin, la plage de Kafountine en Casamance, ou la plage de Nianing.",
+            "Vous pouvez pratiquer la pêche à Kayar, Joal-Fadiouth, Mbour, Saint-Louis et dans le delta du Saloum, où la pêche artisanale et sportive sont très populaires."
+          ],
+          "réponses_en": [
+            "The most beautiful beaches in Senegal include Popenguine Beach, Cap Skirring Beach, Saly Beach, Ngor Beach, and Somone Beach.",
+            "Yoff Beach in Dakar is very popular for surfing.",
+            "To relax by the sea, head to the Somone Lagoon, the beaches of Cap Skirring, Saly for its resorts, or Niodior Island in Sine-Saloum.",
+            "For quiet beaches, explore Toubab Dialaw Beach, Palmarin Beach, Kafountine Beach in Casamance, or Nianing Beach.",
+            "You can go fishing in Kayar, Joal-Fadiouth, Mbour, Saint-Louis, and the Saloum Delta, where artisanal and sport fishing are very popular."
+          ]
+        },
+        {
+          "tag": "transport_senegal",
+          "questions_fr": [
+            "Comment se déplacer au Sénégal ?",
+            "Y a-t-il des transports en commun fiables au Sénégal ?",
+            "Comment louer une voiture au Sénégal ?",
+            "Quels sont les moyens de transport les plus courants au Sénégal ?",
+            "Le train est-il une option au Sénégal ?"
+          ],
+          "questions_en": [
+            "How to get around in Senegal?",
+            "Are there reliable public transports in Senegal?",
+            "How to rent a car in Senegal?",
+            "What are the most common means of transportation in Senegal?",
+            "Is the train an option in Senegal?"
+          ],
+          "réponses_fr": [
+            "Au Sénégal, vous pouvez vous déplacer en taxi, en bus, en car rapide, en Ndiaga Ndiaye, en voiture de location ou en avion pour les longues distances.",
+            "Oui, le Sénégal dispose de transports en commun comme le Bus Rapid Transit (BRT) à Dakar, les cars rapides et Ndiaga Ndiaye, mais leur ponctualité et confort varient selon les trajets.",
+            "Vous pouvez louer une voiture auprès d'agences comme Hertz, Avis, ou des agences locales à Dakar, l’aéroport et dans les grandes villes, avec ou sans chauffeur.",
+            "Les moyens de transport les plus courants sont les taxis, les bus, les cars rapides, les Ndiaga Ndiaye, ainsi que les motos-taxis en zones rurales.",
+            "Le train est une option limitée, mais le TER (Train Express Régional) relie Dakar à Diamniadio, tandis que d’autres lignes ferroviaires restent peu développées pour le transport de passagers."
+          ],
+          "réponses_en": [
+            "In Senegal, you can get around by taxi, bus, car rapide, Ndiaga Ndiaye, rental car, or plane for long distances.",
+            "Yes, Senegal has public transport like the Bus Rapid Transit (BRT) in Dakar, car rapides, and Ndiaga Ndiaye, but their punctuality and comfort vary depending on the route.",
+            "You can rent a car from agencies like Hertz, Avis, or local agencies in Dakar, the airport, and major cities, with or without a driver.",
+            "The most common means of transportation are taxis, buses, car rapides, Ndiaga Ndiaye, as well as moto-taxis in rural areas.",
+            "The train is a limited option, but the TER (Regional Express Train) connects Dakar to Diamniadio, while other railway lines remain underdeveloped for passenger transport."
+          ]
+        },
+        {
+          "tag": "langues_senegal",
+          "questions_fr": [
+            "Quelle langue parle-t-on au Sénégal ?",
+            "Pouvez-vous me dire quelles langues sont utilisées au Sénégal ?",
+            "Les habitants parlent-ils français au Sénégal ?",
+            "Quels sont les dialectes locaux au Sénégal ?",
+            "Le wolof est-il la langue principale ?"
+          ],
+          "questions_en": [
+            "What language is spoken in Senegal?",
+            "Can you tell me which languages are used in Senegal?",
+            "Do people speak French in Senegal?",
+            "What are the local dialects in Senegal?",
+            "Is Wolof the main language?"
+          ],
+          "réponses_fr": [
+            "La langue officielle du Sénégal est le français, mais le wolof est largement parlé dans tout le pays, accompagné d'autres langues locales.",
+            "Au Sénégal, on parle principalement le wolof, le sérère, le pulaar, le diola, le mandingue et d'autres dialectes régionaux, en plus du français.",
+            "Oui, le français est la langue officielle du Sénégal et est utilisé dans l'administration, les affaires et l'éducation.",
+            "Les dialectes locaux les plus courants sont le wolof, le sérère, le pulaar, le diola, le mandingue et le soninké, chacun correspondant à un groupe ethnique spécifique.",
+            "Oui, le wolof est la langue principale parlée par la majorité de la population, bien qu'il existe une grande diversité linguistique dans le pays."
+          ],
+          "réponses_en": [
+            "The official language of Senegal is French, but Wolof is widely spoken throughout the country, along with other local languages.",
+            "In Senegal, people mainly speak Wolof, Serer, Pulaar, Diola, Mandinka, and other regional dialects, in addition to French.",
+            "Yes, French is the official language of Senegal and is used in administration, business, and education.",
+            "The most common local dialects are Wolof, Serer, Pulaar, Diola, Mandinka, and Soninke, each corresponding to a specific ethnic group.",
+            "Yes, Wolof is the main language spoken by the majority of the population, although there is great linguistic diversity in the country."
+          ]
+        },
+            {
+              "tag": "musique_senegal",
+              "questions_fr": [
+                "Quels genres de musique sont populaires au Sénégal ?",
+                "Pouvez-vous me parler des artistes sénégalais célèbres ?",
+                "Où écouter de la musique live à Dakar ?",
+                "Quels instruments de musique sont typiques du Sénégal ?",
+                "Le mbalax est-il typique du Sénégal ?"
+              ],
+              "questions_en": [
+                "What music genres are popular in Senegal?",
+                "Can you tell me about famous Senegalese artists?",
+                "Where can I listen to live music in Dakar?",
+                "What musical instruments are typical of Senegal?",
+                "Is mbalax typical of Senegal?"
+              ],
+              "réponses_fr": [
+                "Les genres de musique populaires au Sénégal incluent le mbalax, le rap, le reggae, le jazz, la musique traditionnelle comme le sabar, ainsi que des influences de musique moderne et de fusion.",
+                "Parmi les artistes sénégalais célèbres, on retrouve Youssou N'Dour, Baaba Maal, Ismaël Lô, Oumou Sangaré, et Pape Diouf, qui sont reconnus internationalement pour leurs contributions à la musique africaine.",
+                "À Dakar, vous pouvez écouter de la musique live dans des endroits comme le Bal de l'Afrique Enchantée, le Just 4 U, le Niandou, ainsi que dans plusieurs clubs et bars animés qui proposent de la musique locale.",
+                "Les instruments typiques du Sénégal incluent le tama, le sabar, le xalam, le balafon, le djembé, ainsi que des percussions traditionnelles comme les drums et les cymbales.",
+                "Oui, le mbalax est une musique typique du Sénégal, fusionnant des rythmes traditionnels avec des influences modernes comme le jazz, le funk et le rock, souvent associé à des danses traditionnelles."
+              ],
+              "réponses_en": [
+                "Popular music genres in Senegal include mbalax, rap, reggae, jazz, traditional music like sabar, and influences from modern and fusion music.",
+                "Famous Senegalese artists include Youssou N'Dour, Baaba Maal, Ismaël Lô, Oumou Sangaré, and Pape Diouf, who are internationally recognized for their contributions to African music.",
+                "In Dakar, you can listen to live music at places like Bal de l'Afrique Enchantée, Just 4 U, Niandou, and various lively clubs and bars offering local music.",
+                "Typical Senegalese instruments include the tama, sabar, xalam, balafon, djembe, and traditional percussion instruments like drums and cymbals.",
+                "Yes, mbalax is a typical music genre of Senegal, blending traditional rhythms with modern influences such as jazz, funk, and rock, often accompanied by traditional dances."
+              ]
+            },
+            {
+              "tag": "shopping_senegal",
+              "questions_fr": [
+                "Où faire du shopping au Sénégal ?",
+                "Quels sont les meilleurs marchés à Dakar ?",
+                "Peut-on acheter des produits artisanaux en ligne au Sénégal ?",
+                "Quels centres commerciaux visiter au Sénégal ?",
+                "Quels souvenirs rapporter du Sénégal ?"
+              ],
+              "questions_en": [
+                "Where to shop in Senegal?",
+                "What are the best markets in Dakar?",
+                "Can you buy handmade products online in Senegal?",
+                "Which shopping malls should I visit in Senegal?",
+                "What souvenirs to bring back from Senegal?"
+              ],
+              "réponses_fr": [
+                "Le marché Sandaga à Dakar est un endroit incontournable.",
+                "Le marché Kermel et le marché Sandaga sont parfaits pour les souvenirs et les produits artisanaux.",
+                "Certains artisans proposent également leurs produits en ligne.",
+                "Le Sea Plaza à Dakar offre une expérience shopping moderne.",
+                "Rapportez des textiles wax, des bijoux artisanaux et des sculptures en bois."
+              ],
+              "réponses_en": [
+                "The Sandaga market in Dakar is a must-visit place.",
+                "Kermel and Sandaga markets are great for souvenirs and handmade products.",
+                "Some artisans also sell their products online.",
+                "Sea Plaza in Dakar offers a modern shopping experience.",
+                "Bring back wax textiles, handmade jewelry, and wooden sculptures."
+              ]
+            },
+            {
+              "tag": "sante_senegal",
+              "questions_fr": [
+                "Quels vaccins faut-il pour voyager au Sénégal ?",
+                "Y a-t-il des risques de paludisme au Sénégal ?",
+                "Comment trouver un médecin au Sénégal ?",
+                "Les pharmacies sont-elles accessibles au Sénégal ?",
+                "Quelles précautions sanitaires prendre au Sénégal ?"
+              ],
+              "questions_en": [
+                "What vaccines are required to travel to Senegal?",
+                "Are there malaria risks in Senegal?",
+                "How to find a doctor in Senegal?",
+                "Are pharmacies easily accessible in Senegal?",
+                "What health precautions should be taken in Senegal?"
+              ],
+              "réponses_fr": [
+                "Pour voyager au Sénégal, les vaccins recommandés sont ceux contre la fièvre jaune, la diphtérie, le tétanos, la polio, l'hépatite A et B, ainsi que la typhoïde. Il est aussi conseillé d'avoir une protection contre le paludisme.",
+                "Oui, il existe un risque de paludisme au Sénégal, en particulier dans les zones rurales et les régions proches des rivières, il est donc recommandé de prendre des médicaments antipaludiques et d'utiliser des moustiquaires.",
+                "Pour trouver un médecin au Sénégal, vous pouvez consulter les hôpitaux comme l'Hôpital Principal de Dakar, l'Hôpital de Fann, ou encore des cliniques privées dans les grandes villes.",
+                "Les pharmacies sont facilement accessibles dans les grandes villes comme Dakar, avec des pharmacies publiques et privées offrant une large gamme de médicaments, mais il est préférable de vérifier les horaires d'ouverture.",
+                "Les précautions sanitaires à prendre au Sénégal incluent la vaccination préalable, la prévention contre le paludisme, l'utilisation de répulsifs contre les moustiques, la consommation d'eau en bouteille et la prudence avec la nourriture."
+              ],
+              "réponses_en": [
+                "To travel to Senegal, recommended vaccines include yellow fever, diphtheria, tetanus, polio, hepatitis A and B, and typhoid. Malaria protection is also advised.",
+                "Yes, there is a risk of malaria in Senegal, especially in rural areas and near rivers. It is recommended to take antimalarial medication and use mosquito nets.",
+                "To find a doctor in Senegal, you can visit hospitals such as Hôpital Principal de Dakar, Hôpital de Fann, or private clinics in major cities.",
+                "Pharmacies are easily accessible in major cities like Dakar, with both public and private pharmacies offering a wide range of medications, but it is advisable to check their opening hours.",
+                "Health precautions in Senegal include prior vaccination, malaria prevention, using mosquito repellents, drinking bottled water, and being cautious with food."
+              ]
+            },
+
+             {
+                "tag": "culture_senegal",
+                "questions_fr": [
+                  "Quelles sont les traditions culturelles au Sénégal ?",
+                  "Quels sont les habits traditionnels au Sénégal ?",
+                  "Pouvez-vous me parler des cérémonies au Sénégal ?",
+                  "Quels sont les arts typiques du Sénégal ?",
+                  "Quelles sont les valeurs culturelles sénégalaises ?"
+                ],
+                "questions_en": [
+                  "What are the cultural traditions in Senegal?",
+                  "What are the traditional clothes in Senegal?",
+                  "Can you tell me about ceremonies in Senegal?",
+                  "What are the typical arts of Senegal?",
+                  "What are Senegalese cultural values?"
+                ],
+                "réponses_fr": [
+                  "Les traditions culturelles du Sénégal incluent des célébrations comme le Turu-Turu, le Mawlid, les fêtes religieuses comme l'Aïd, ainsi que des danses traditionnelles et des contes populaires.",
+                  "Les habits traditionnels au Sénégal incluent le boubou, porté par les hommes, et le boubou avec le pagne pour les femmes, ainsi que des vêtements colorés et brodés lors de cérémonies.",
+                  "Les cérémonies au Sénégal sont nombreuses, comprenant des rites d'initiation, des mariages traditionnels, des fêtes religieuses comme l'Aïd et des cérémonies de communion avec les ancêtres.",
+                  "Les arts typiques du Sénégal comprennent la musique traditionnelle comme le sabar et le mbalax, la danse, la sculpture sur bois, la peinture, ainsi que le tissage et la poterie.",
+                  "Les valeurs culturelles sénégalaises incluent le respect des aînés, la teranga ou l'hospitalité, la solidarité, le sens de la communauté, la famille, ainsi que la tolérance et la cohabitation pacifique des différentes ethnies."
+                ]
+              },
+              {
+                "tag": "faune_senegal",
+                "questions_fr": [
+                  "Quels animaux peut-on voir au Sénégal ?",
+                  "Pouvez-vous me conseiller un safari au Sénégal ?",
+                  "Quels parcs nationaux visiter pour la faune ?",
+                  "Y a-t-il des oiseaux rares au Sénégal ?",
+                  "Quels sont les animaux emblématiques du Sénégal ?"
+                ],
+                "questions_en": [
+                  "What animals can be seen in Senegal?",
+                  "Can you recommend a safari in Senegal?",
+                  "Which national parks should I visit for wildlife?",
+                  "Are there rare birds in Senegal?",
+                  "What are the iconic animals of Senegal?"
+                ],
+                "réponses_fr": [
+                  "Le parc national de Niokolo-Koba est un site idéal pour voir des lions et des antilopes.",
+                  "Le parc de Djoudj est célèbre pour ses oiseaux migrateurs.",
+                  "Vous pouvez voir des girafes et des rhinocéros à la réserve de Bandia.",
+                  "Les hippopotames sont souvent observés dans le delta du Saloum.",
+                  "Les crocodiles sont aussi présents dans certaines régions."
+                ]
+              },
+                {
+                  "tag": "artisanat_senegal",
+                  "questions_fr": [
+                    "Où acheter des souvenirs au Sénégal ?",
+                    "Quels sont les objets artisanaux typiques ?",
+                    "Pouvez-vous me conseiller des marchés locaux ?",
+                    "Quelles sont les spécialités en artisanat ?",
+                    "Quels textiles traditionnels trouve-t-on au Sénégal ?"
+                  ],
+                  "questions_en": [
+                    "Where to buy souvenirs in Senegal?",
+                    "What are the typical handicrafts in Senegal?",
+                    "Can you recommend local markets?",
+                    "What are the specialties in Senegalese crafts?",
+                    "What traditional textiles can be found in Senegal?"
+                  ],
+                  "réponses_fr": [
+                    "Les marchés comme Sandaga et Soumbédioune offrent une grande variété de souvenirs.",
+                    "Les objets artisanaux typiques incluent des sculptures en bois, des masques, des bijoux en perles, des paniers en osier, des tissus batik et des objets en cuivre.",
+                    "Les marchés locaux à ne pas manquer sont le marché Sandaga et le marché Kermel à Dakar, ainsi que les marchés de Thiès et de Saint-Louis pour des souvenirs artisanaux.",
+                    "Les spécialités en artisanat sénégalais incluent les sculptures en bois, les tissus artisanaux, les bijoux en argent, les objets en perles, ainsi que les poteries et vanneries.",
+                    "Les textiles traditionnels du Sénégal incluent le boubou brodé, les pagnes teints à la main, le wax, le batik et le khamis, des tissus riches en couleurs et motifs."
+                  ]
+                },
+                {
+                  "tag": "sports_senegal",
+                  "questions_fr": [
+                    "Quels sports sont populaires au Sénégal ?",
+                    "Le Sénégal est-il bon au football ?",
+                    "Quels événements sportifs assister au Sénégal ?",
+                    "La lutte sénégalaise est-elle célèbre ?",
+                    "Pouvez-vous me parler des sports traditionnels au Sénégal ?"
+                  ],
+                  "questions_en": [
+                    "What sports are popular in Senegal?",
+                    "Is Senegal good at football?",
+                    "Which sports events can I attend in Senegal?",
+                    "Is Senegalese wrestling famous?",
+                    "Can you tell me about traditional sports in Senegal?"
+                  ],
+                  "réponses_fr": [
+                    "Le football, la lutte sénégalaise, le basketball, le handball et le volleyball sont des sports populaires au Sénégal.",
+                    "Oui, le Sénégal est très bon en football, ayant une équipe nationale forte, les Lions de la Teranga, qui participent régulièrement à des compétitions internationales de haut niveau.",
+                    "Vous pouvez assister à des matchs de football, des compétitions de lutte sénégalaise, des événements de basketball et des tournois de tennis ou de handball organisés régulièrement dans les principales villes.",
+                    "Oui, la lutte sénégalaise est un sport très célèbre et apprécié, pratiqué dans tout le pays avec des compétitions populaires et des lutteurs célèbres.",
+                    "Les sports traditionnels incluent la lutte sénégalaise, le football de rue et des jeux comme le 'jogging' ou la course de chevaux qui ont une longue tradition au Sénégal."
+                  ]
+                },
+                {
+                  "tag": "securite_senegal",
+                  "questions_fr": [
+                    "Le Sénégal est-il un pays sûr pour les touristes ?",
+                    "Quels conseils de sécurité pour voyager au Sénégal ?",
+                    "Y a-t-il des zones à éviter au Sénégal ?",
+                    "Comment garantir sa sécurité au Sénégal ?",
+                    "Les femmes peuvent-elles voyager seules au Sénégal ?"
+                  ],
+                  "questions_en": [
+                    "Is Senegal a safe country for tourists?",
+                    "What safety tips should I follow when traveling to Senegal?",
+                    "Are there any areas to avoid in Senegal?",
+                    "How can I ensure my safety in Senegal?",
+                    "Can women travel alone in Senegal?"
+                  ],
+                  "réponses_fr": [
+                    "Le Sénégal est généralement considéré comme un pays sûr pour les touristes, avec un faible taux de criminalité, bien qu'il soit recommandé de rester vigilant dans les zones urbaines densément peuplées.",
+                    "Pour voyager en toute sécurité au Sénégal, il est conseillé de respecter les règles locales, d'éviter de porter des objets de valeur en public, de privilégier les transports organisés et d'être attentif aux conseils des autorités locales.",
+                    "Il est recommandé d'éviter certaines zones isolées ou les quartiers à forte densité de population à Dakar et d'être prudent dans certaines régions rurales.",
+                    "Pour garantir sa sécurité, il est conseillé de suivre les recommandations des autorités locales, d'éviter les zones isolées la nuit et de privilégier des transports sûrs.",
+                    "Les femmes peuvent voyager seules au Sénégal, mais elles doivent être attentives aux normes culturelles, s'habiller modestement et éviter les situations nocturnes seules dans des zones moins fréquentées."
+                  ]
+                }
+              ]
+
+        }
+        
+
+    

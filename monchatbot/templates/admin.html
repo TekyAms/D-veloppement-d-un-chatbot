@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Feedbacks Utilisateurs</title>
+</head>
+<body>
+    <h1>Feedbacks des utilisateurs</h1>
+    <table border="1">
+        <tr>
+            <th>Message</th>
+            <th>Réponse du chatbot</th>
+            <th>Correct ?</th>
+            <th>Réponse attendue</th>
+        </tr>
+        {% for feedback in feedbacks %}
+        <tr>
+            <td>{{ feedback.message }}</td>
+            <td>{{ feedback.bot_response }}</td>
+            <td>{{ "✔️" if feedback.correct else "❌" }}</td>
+            <td>{{ feedback.expected_response if not feedback.correct else "-" }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
